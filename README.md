@@ -28,21 +28,27 @@ ___
 * Cisco Networking Academy:
 CCNAv7: Redes empresariales, Seguridad y Automatización  
  <img src="/img/CCNAv7_Redes empresariales, Seguridad y Automatización.png" width="200" />
+ 
 * Cisco Networking Academy:
 CyberOps Associate
  <img src="/img/Certificacion CyberOps.png" width="200" />
+ 
 * Cisco Networking Academy:
 CCNAv7: Switching, Routing and Wireless Essentials
  <img src="/img/Certificacion CCNAv7_ Switching, Routing and Wireless Essentials.png" width="200" />
+ 
 * AOS Internacional:
 App Connect
 <img src="img/Certificado APP Connect Enterprise 12.png" width="200" />
+
 * AOS Internacional:
 API Connect
 <img src="/img/Certificado API Connect 10.png" width="200" />
+
 * AOS Internacional:
 Datapower
 <img src="/img/Certificacion_IBM DataPower Gateway .png" width="200" />
+
 * Universidad Cooperativa de Colombia
 Certificación en administración y configuración de redes.
 * SGS Colombia S.A.
